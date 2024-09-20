@@ -34,12 +34,7 @@ Assista a um vídeo da gameplay diretamente no [meu perfil do LinkedIn](https://
    
 3. **Execute o jogo:**
    ```bash
-   python vai_fumar.py
-   
-4. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/vai-fumar.git
-
+   python vai_fumar.py   
 
 Tecnologias Utilizadas
 
