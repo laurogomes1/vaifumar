@@ -2,6 +2,9 @@
 
 **Vai Fumar?** é um jogo interativo desenvolvido para conscientizar sobre os efeitos nocivos do cigarro. Através de uma divertida mecânica de jogo retrô, você deve controlar um cigarro (sim, a raquete) e impedir que a bola destrua os pulmões ao longo do tempo. A cada erro, seus "anos de vida" são degradados! O jogo é uma criação de **Lauro Gomes** como parte de um projeto educacional.
 
+![Gameplay GIF](https://media.giphy.com/media/nCXsRKGV2KF1tK6eE6/giphy.gif)
+
+
 ## **Como Jogar**
 
 - **Objetivo:** 
