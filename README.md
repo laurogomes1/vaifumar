@@ -40,17 +40,21 @@ Assista a um vídeo da gameplay diretamente no [meu perfil do LinkedIn](https://
 
 Tecnologias Utilizadas
 
-Python: Linguagem principal para lógica do jogo.
+Python: Linguagem principal para lógica do jogo. 
+
 Pygame: Biblioteca utilizada para desenvolver os elementos gráficos e a mecânica de jogo.
+
 Pillow (PIL): Para manipulação de imagens.
-Licença
+
+Licença:
 
 Este software é gratuito para uso, mas é estritamente proibido modificar, redistribuir ou exibir publicamente sem os devidos créditos ao autor original, Lauro Gomes. Para mais detalhes, consulte o arquivo LICENSE.
 
-Créditos
+Créditos:
+
 Criado por Lauro Gomes. Este jogo foi desenvolvido como parte de um estudo e é livre para ser jogado e compartilhado, desde que respeite os termos da licença.
 
-Contribuições
+Contribuições:
 
 Contribuições e sugestões são bem-vindas! No entanto, lembre-se de que o código não pode ser modificado sem a autorização do autor.
 
