@@ -25,16 +25,18 @@ Assista a um vídeo da gameplay diretamente no [meu perfil do LinkedIn](https://
    ```bash
    git clone https://github.com/seu-usuario/vai-fumar.git
 
-2. **Instale as dependências:**
-
-Certifique-se de que você tenha o Python instalado.
-Execute o seguinte comando para instalar as bibliotecas necessárias:
+2. **Instale as dependências: Certifiquese que voce tem o phyton instalado**
    ```bash
    pip install -r requirements.txt
-
+   
 3. **Execute o jogo:**
    ```bash
    python vai_fumar.py
+   
+4. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/vai-fumar.git
+
 
 Tecnologias Utilizadas
 
