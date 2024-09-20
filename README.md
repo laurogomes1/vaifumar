@@ -1,36 +1,41 @@
-Vai Fumar? 🚭
+# **Vai Fumar?** 🚭
 
-Vai Fumar? é um jogo interativo desenvolvido para conscientizar sobre os efeitos nocivos do cigarro. Através de uma divertida mecânica de jogo retrô, você deve controlar um cigarro (sim, a raquete) e impedir que a bola destrua os pulmões ao longo do tempo. A cada erro, seus "anos de vida" são degradados! O jogo é uma criação de Lauro Gomes como parte de um projeto educacional.
+**Vai Fumar?** é um jogo interativo desenvolvido para conscientizar sobre os efeitos nocivos do cigarro. Através de uma divertida mecânica de jogo retrô, você deve controlar um cigarro (sim, a raquete) e impedir que a bola destrua os pulmões ao longo do tempo. A cada erro, seus "anos de vida" são degradados! O jogo é uma criação de **Lauro Gomes** como parte de um projeto educacional.
 
-Como Jogar
+## **Como Jogar**
 
-Objetivo: Evitar que a bola destrua os blocos que representam os pulmões. Use a raquete (cigarro) para rebater a bola o máximo de vezes possível. Sua pontuação será baseada em quantos blocos você consegue salvar!
-Controles:
-Mova a raquete (cigarro) usando as teclas seta esquerda e seta direita.
-Pause o jogo a qualquer momento com a tecla P.
-Pontuação:
-Sua pontuação aumenta conforme você impede a bola de destruir os blocos.
-Seus "anos de vida" são representados pela quantidade de blocos restantes no jogo.
-Demonstração
+- **Objetivo:** 
+  Evitar que a bola destrua os blocos que representam os pulmões. Use a raquete (cigarro) para rebater a bola o máximo de vezes possível. Sua pontuação será baseada em quantos blocos você consegue salvar!
 
-Assista a um vídeo da gameplay diretamente no meu perfil do LinkedIn ou jogue localmente baixando o código-fonte!
+- **Controles:**
+  - Mova a raquete (cigarro) usando as teclas **seta esquerda** e **seta direita**.
+  - Pause o jogo a qualquer momento com a tecla **P**.
 
-Instalação
+- **Pontuação:**
+  - Sua pontuação aumenta conforme você impede a bola de destruir os blocos.
+  - Seus "anos de vida" são representados pela quantidade de blocos restantes no jogo.
 
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/vai-fumar.git
-Instale as dependências:
+## **Demonstração**
+
+Assista a um vídeo da gameplay diretamente no [meu perfil do LinkedIn](https://www.linkedin.com/in/lauro-gomes) ou jogue localmente baixando o código-fonte!
+
+## **Instalação**
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/vai-fumar.git
+
+2. **Instale as dependências:**
+
 Certifique-se de que você tenha o Python instalado.
 Execute o seguinte comando para instalar as bibliotecas necessárias:
-bash
-Copiar código
-pip install -r requirements.txt
-Execute o jogo:
-bash
-Copiar código
-python vai_fumar.py
+   ```bash
+   pip install -r requirements.txt
+
+3. **Execute o jogo:**
+   ```bash
+   python vai_fumar.py
+
 Tecnologias Utilizadas
 
 Python: Linguagem principal para lógica do jogo.
@@ -47,4 +52,3 @@ Contribuições
 
 Contribuições e sugestões são bem-vindas! No entanto, lembre-se de que o código não pode ser modificado sem a autorização do autor.
 
-Com esse README, você fornece informações claras sobre o objetivo do jogo, como jogá-lo e as tecnologias usadas, além de destacar seus créditos. Ele também inclui links e instruções fáceis para que outros possam baixar e rodar o jogo localmente.
